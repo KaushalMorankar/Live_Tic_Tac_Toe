@@ -12,7 +12,7 @@ Clone the repository.
 4. just type npx nodemon in the terminal inside the backend directory and you are set
 
 ## Steps to start frontend server
-1. cd into frontend directory using command
-   cd frontend
-2. just type npm start in the terminal inside the frontend directory and you are set
+1. cd into tictactoe directory using command
+   cd tictactoe
+2. just type npm start in the terminal inside the tictactoe directory and you are set
 3. make sure to enter the localhost://3000 in other browser to play real time game.
